@@ -1,5 +1,9 @@
 # Machine Learning Localization
 
+This repository is the official implementation of: 
+
+[Mitigating loss of variance in ensemble data assimilation: machine learning-based and distance-free localization for better covariance estimation](https://arxiv.org/pdf/2506.13362)
+
 ## Directories
 
 - **data**: data files to test the ML-localization.
